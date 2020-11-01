@@ -1,4 +1,4 @@
-import enc_dec.py
+import modules/enc_dec.py
 
 # Length in bits as an argument
 keys = rng.generateKey(64)
